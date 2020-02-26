@@ -5,9 +5,10 @@ Obtaining an access token:
 https://vkhost.github.io/
 
 ## Installing (Termux):
+.....
 git clone https://github.com/satanin2020/trollbot
 cd trollbot
 python troll.py
-
+.....
 
 
