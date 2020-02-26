@@ -70,13 +70,13 @@ def untroll ():
 			time.sleep(0.4)
 	print ("\033[FDone:(                                \n")
 print ("""\033[37m
-MADE FROM BRUTE.SU
+MADE FOR BRUTE.SU
 Telegram @maninmiddle
 ╔══╗╔═╗╔═╗╔╗─╔╗─     ╔══╗╔═╗╔══╗
 ╚╗╔╝║╬║║║║║║─║║─     ║╔╗║║║║╚╗╔╝
 ─║║─║╗╣║║║║╚╗║╚╗     ║╔╗║║║║─║║─
 ─╚╝─╚╩╝╚═╝╚═╝╚═╝     ╚══╝╚═╝─╚╝─
-MADE FROM BRUTE.SU
+MADE FOR BRUTE.SU
 \033[35m[1] Troll
 [2] Return
 """)
