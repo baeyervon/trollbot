@@ -10,6 +10,7 @@ https://vkhost.github.io/
 ```
 git clone https://github.com/satanin2020/trollbot
 cd trollbot
+pip install vk
 python troll.py
 ```
 
