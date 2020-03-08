@@ -13,4 +13,11 @@ cd trollbot
 pip install vk
 python troll.py
 ```
-
+## Installing (Linux):
+```
+sudo apt install python3-pip
+pip3 install vk
+git clone https://satanin2020/trollbot
+cd trollbot
+python3 troll.py
+```
