@@ -4,6 +4,7 @@ This script allows you to destroy a page, a signature on gay posts, flood messag
 You need to get an access token and that's it
 Obtaining an access token:
 https://vkhost.github.io/
+https://i.imgur.com/6hmw8ui.png
 ## Installing (Termux):
 
 ```
